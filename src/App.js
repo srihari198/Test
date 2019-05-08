@@ -11,6 +11,7 @@ class App extends Component {
           <p>
             Welcome to new world
             Welcome to new world
+            Welcome to new world
           </p>
           <a
             className="App-link"
